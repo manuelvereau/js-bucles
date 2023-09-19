@@ -1,0 +1,1 @@
+console.log("arhivo de bucle while cargado")
